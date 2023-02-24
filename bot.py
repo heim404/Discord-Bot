@@ -69,11 +69,9 @@ async def mute(ctx, member:discord.Member, timelimit):
 
 
 
-#  AJUDA COMANDOS 
-# channel id 1078164745653338112
 
 
 
 
 
-bot.run("MTA3NzM4MTY4ODcxNzQ5MjI0Ng.GLeg9J.RHWcxemAwKoIFQWNDC0JFKUnUdwiIQu2riThjU")
+bot.run("")
